@@ -26,14 +26,14 @@
   "spray nasale": {
     "prezzo": "13.90",
     "in_stock": true,
-    "posizione": "1",
-    "descrizione": "sul quarto scaffale, in altro a sinistra"
+    "posizione": "sul quarto scaffale, in altro a sinistra",
+    "descrizione": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
   },
   "collirio": {
     "prezzo": "9.00",
     "in_stock": true,
-    "posizione": "1",
-    "descrizione": "sula quarto scaffale, in alto in centro"
+    "posizione": "sul quarto scaffale, in alto in centro",
+    "descrizione": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
   }
   
 }
