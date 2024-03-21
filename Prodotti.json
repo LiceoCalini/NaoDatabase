@@ -6,21 +6,34 @@
     "descrizione": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
   },
   "sciroppo": {
-    "prezzo": "4.20",
+    "prezzo": "9.35",
     "in_stock": true,
     "posizione": "2",
     "descrizione": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
   },
   "integratori": {
-    "prezzo": "2.56",
+    "prezzo": "14.50",
     "in_stock": true,
     "posizione": "1",
     "descrizione": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
   },
-  "antidolorifici": {
-    "prezzo": "3.23",
-    "in_stock": false,
+  "nurofen": {
+    "prezzo": "10.30",
+    "in_stock": true,
     "posizione": "6",
     "descrizione": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+  },
+  "spray nasale": {
+    "prezzo": "13.90",
+    "in_stock": true,
+    "posizione": "1",
+    "descrizione": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+  },
+  "collirio": {
+    "prezzo": "9.00",
+    "in_stock": true,
+    "posizione": "1",
+    "descrizione": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
   }
+  
 }
